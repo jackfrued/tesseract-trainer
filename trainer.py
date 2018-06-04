@@ -207,7 +207,7 @@ class TesseractTrainer():
 		return self.trainingList
 
 
-
+print('这是骆昊爸爸的修改')
 trainer = TesseractTrainer()
 trainer.runAll()
 
